@@ -1,5 +1,4 @@
 //profile-update-interval: 1
-//profile-update-interval: 1
 vless://055a1ce8-2a16-4a0d-a2c2-22826c9b2413@47.253.226.114:443?encryption=none&flow=xtls-rprx-vision&security=tls&sni=www.cloudflare.com&fp=chrome&pbk=Svl81isn16RPAFnjtmYw7A6TPnsEPLHuYYaJht65Rzc&sid=&packetEncoding=xudp#Верджиния🇺🇸
 vless://6ba2eac6-0ec9-44ca-a42b-a8e23aafb530@204.216.216.23:1114?encryption=none&flow=xtls-rprx-vision&security=tls&sni=yahoo.com&fp=chrome&pbk=WfkCF0eEuIoO0MyJsKOddU89QrTzCZ4y2dzCJbH99CQ&sid=79a1e14b&packetEncoding=xudp#Ломбардия⚡🇮🇹
 vless://9936ae5c-91cd-4c8a-80e9-5118a209a7e4@188.253.21.106:443?encryption=none&flow=xtls-rprx-vision&security=tls&sni=yahoo.com&fp=firefox&pbk=4JvLKnuuAs4h0cQ1j_S4SAuXQQ579D7Wr1sGBjmH-Ws&sid=73d3fec4&packetEncoding=xudp#Вильнюс🇱🇻
