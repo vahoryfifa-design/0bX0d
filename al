@@ -14,6 +14,5 @@ vless://2dfa740c-8069-4993-8b96-c3e5dc540593@188.225.80.10:3443?encryption=none&
 vless://b5363ae9-9ed8-47d7-bd95-b2c83acc1f8f@95.111.208.215:24401?encryption=none&flow=xtls-rprx-vision&security=tls&sni=steampowered.com&fp=chrome&pbk=6Tayhy99MQpr2AvgmdiqHAzd7Z0F9F6Qj-eZN2FRsjU&sid=6d3e7476fd&packetEncoding=xudp#G🇸🇪
 vless://92abf930-b8de-43cc-982c-edd97f1577d9@138.124.91.185:443?security=reality&sni=web.max.ru&fp=chrome&pbk=fOch7SpN1QDkYy9cQrj_tb0VR9y1rVDhCQjgH_y_IlA&sid=ee726ae9df6427f7&type=tcp&flow=xtls-rprx-vision&packetEncoding=xudp&encryption=none#YT-G🇫🇷❗max❗ Париж
 vless://2dfa740c-8069-4993-8b96-c3e5dc540593@159.195.26.59:443?encryption=none&flow=xtls-rprx-vision&security=tls&sni=web.max.ru&pbk=FcZ6-LZS5HHqAJ8YwFV_Gu_WxrMuylqxYjBu-1CLVRI&sid&type=raw&packetEncoding=xudp#YT-G🇩🇪❗Max❗
-vless://6c1df76d-c5f5-40f1-b969-5abc805407fa@185.155.96.155:8443?encryption=none&flow=xtls-rprx-vision&security=tls&sni=stats.vk-portal.net&fp=chrome&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&sid=8453e5fd9af927&packetEncoding=xudp#🇪🇪estonia🐌
-
+vless://5da1b2d1-5367-46fd-a905-5ff5e0bd2f1e@85.192.63.57:443?encryption=none&flow=xtls-rprx-vision&security=tls&sni=web.max.ru&fp=chrome&pbk=85_p6DLUIlKajoJfYCKJAr54RLdA93ykClM-SeQu7Uc&sid=c5b01dc79d0017ab&packetEncoding=xudp#YT-G🇩🇪❗max❗
 
