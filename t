@@ -1,4 +1,6 @@
 //profile-update-interval: 1
+hysteria2://a1b2c3d4e5@45.67.219.21:443/?sni=www.google.com&alpn=h3&insecure=0#🇳🇱 NL | HY2 | Open
+hysteria2://freehy2-2025@217.138.223.181:443/?sni=discord.com&alpn=h3&insecure=0#🇬🇧 UK | HY2 | Public
 vless://40e65a0d-df16-4759-a126-76fa359f51f5@51.159.96.121:443?security=tls&sni=ns3.turkeyone.org&allowInsecure=1&fp=chrome&type=tcp&flow=xtls-rprx-vision&packetEncoding=xudp&encryption=none#🇫🇷 Париж
 vless://ef8cf9d8-aa71-4a52-ad33-42bf0515dd27@151.236.93.83:443?security=reality&sni=io.ozone.ru&fp=chrome&pbk=Walwh96aLM56ljHpobhUAh5cSpD9RIE3h4dK7kNbaTs&sid=0d&type=tcp&packetEncoding=xudp&encryption=none#🇰🇿 Алматы
 vless://57a5f6b3-ea58-4d4e-ad9c-a9830f148184@93.152.207.254:45884?security=reality&sni=yahoo.com&fp=chrome&pbk=_GoR9cR6JOUmQ1PM-s2GsHiy6OuIo1Ek1a7lhNKkvj4&sid=9a&type=tcp&packetEncoding=xudp&encryption=none#🇫🇮 Хельсинки
