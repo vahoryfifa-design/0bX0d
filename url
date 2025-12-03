@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+<meta charset="utf-8">
+<title>Vaht Config • до 28 декабря</title>
+<style>
+  body {font-family: Arial, sans-serif; background:#000; color:#0f0; text-align:center; padding:5vh 10px;}
+  h1 {font-size:3em; margin:20px;}
+  #timer {font-size:5em; font-weight:bold; letter-spacing:5px; margin:40px 0;}
+  .label {font-size:1.5em; margin:20px 0 40px;}
+  pre {background:#111; color:#0f0; padding:20px; margin:30px auto; max-width:900px; border-radius:12px; overflow:auto; border:1px solid #0f0;}
+  footer {margin-top:50px; color:#0a0;}
+</style>
+</head>
+<body>
+<h1>Vaht Config</h1>
+<div class="label">Подписка активна до:</div>
+<div id="timer">00 00 00 00</div>
+<div class="label">дней часов минут секунд</div>
+
+<!-- Сюда вставь свою подписку (можно base64 или прямые ссылки) -->
+<pre id="config">
+// Твоя подписка будет здесь ↓↓↓
+// Пока просто пример:
+https://raw.githubusercontent.com/vahoryfifa-design/0bX0d/refs/heads/vahoryfifa-design-patch-1/c#fastvaht
+
+// ← сюда вставляй свои vless://  hy2://  или одну большую base64-строку
+</pre>
+
+<footer>Обновлено: 3 декабря 2025 | Ваша подписка истекает 28 декабря 23:59:59</footer>
+
+<script>
+// Конец подписки — 28 декабря 2025 23:59:59 по МСК (+03:00)
+const deadline = new Date("2025-12-28T23:59:59+03:00").getTime();
+
+const timer = setInterval(() => {
+  const now = new Date().getTime();
+  const diff = deadline - now;
+
+  if (diff <= 0) {
+    clearInterval(timer);
+    document.getElementById("timer").innerHTML = "ИСТЕКЛА";
+    document.querySelector(".label").innerHTML = "Подписка закончилась";
+    return;
+  }
+
+  const days    = Math.floor(diff / (1000*60*60*24));
+  const hours   = Math.floor((diff % (1000*60*60*24)) / (1000*60*60));
+  const minutes = Math.floor((diff % (1000*60*60)) / (1000*60));
+  const seconds = Math.floor((diff % (1000*60)) / 1000);
+
+  document.getElementById("timer").innerHTML = 
+    `\( {days.toString().padStart(2,"0")} \){hours.toString().padStart(2,"0")} \( {minutes.toString().padStart(2,"0")} \){seconds.toString().padStart(2,"0")}`;
+}, 1000);
+</script>
+</body>
+</html>
