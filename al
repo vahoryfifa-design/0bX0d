@@ -1,7 +1,7 @@
 //profile-update-interval: 1
 vless://54fdfb91-1d27-4c5a-8fb3-61e1b08b2a58@8.35.211.162:443?encryption=none&security=tls&sni=bp.suoni.nyc.mn&fp=random&type=ws&host=bp.suoni.nyc.mn&path=/proxyip%3DProxyIP.SG.CMLiussss.net&packetEncoding=xudp#all🇺🇸Умная
 vless://57a5f6b3-ea58-4d4e-ad9c-a9830f148184@93.152.207.254:45884?encryption=none&security=tls&sni=yahoo.com&fp=firefox&pbk=_GoR9cR6JOUmQ1PM-s2GsHiy6OuIo1Ek1a7lhNKkvj4&sid=9a&packetEncoding=xudp#rb-YT🇫🇮⚡
-vless://099dbf2d-a8e0-406e-a85f-eba0ac9a68aa@195.135.252.28:443?security=reality&sni=yahoo.com&fp=chrome&pbk=hGGVm0PiHJwNL34pBG6NLtbFGYVdcWhDu5zHYDoct08&sid=4360e536&type=tcp&flow=xtls-rprx-vision&packetEncoding=xudp&encryption=none#Allstable🇱🇻⚡
+vless://54fdfb91-1d27-4c5a-8fb3-61e1b08b2a58@8.35.211.162:443?encryption=none&security=tls&sni=bp.suoni.nyc.mn&fp=random&type=ws&host=bp.suoni.nyc.mn&path=/proxyip%3DProxyIP.SG.CMLiussss.net&packetEncoding=xud#allstable⚡🇺🇸
 vless://6c49485f-843c-4e96-abfe-046bc473c7b0@45.144.51.22:443?security=reality&sni=github.com&fp=chrome&pbk=euR8poucesDF-UxANxJ7Uqg1t4cfiDtAzAQcTVhRQCE&sid=140d8b3989bf5116&type=tcp&flow=xtls-rprx-vision&packetEncoding=xudp&encryption=none#YT🇵🇱Мазовецкое|H|
 vless://3ced94cb-7df6-44e5-b0c9-2cb2d7ec1688@176.124.206.205:443?encryption=none&flow=xtls-rprx-vision&security=tls&sni=web.max.ru&fp=chrome&pbk=_A94OkOy0oIRFQCQbEWkF1BJXHu1mwgOroq9ZvgbTHQ&sid=797266d9ff91c8c7&packetEncoding=xudp#All🇫🇮⚡🔷⚡
 vless://d8dd94fd-540e-461d-b5d4-acebef02c22a@178.250.191.11:34045?encryption=none&security=tls&sni=visit-this-invitation-link-to-join-tg-enkelte-notif.ekt.me&fp=random&pbk=cDaDzPr3PlS3NM8lreHZbdo-Mhqz8vMBzMSkHXhGIUA&sid=e8ab71d0&packetEncoding=xudp#All+БезРекламы🇩🇪-git
