@@ -1,7 +1,5 @@
 //profile-update-interval: 1
-vless://793099c5-0712-4ea0-bbe1-455da88fc671@193.36.132.87:443?encryption=none&flow=xtls-rprx-vision&security=tls&sni=www.apple.com&fp=chrome&pbk=fPSR5GZpxhOV6Rh7VzMtS4AeRN7ipyNX4waG9JzJzxQ&sid=21181028b56c8702&packetEncoding=xudp#All🇳🇱Fast
-vless://78fc9ba9-9c68-4b49-891f-ea9e38bd3b56@51.120.240.39:443?encryption=none&security=tls&sni=ak.suoni.nyc.mn&fp=random&type=ws&host=ak.suoni.nyc.mn&path=/proxyip%3Dsjc.o00o.ooo&packetEncoding=xudp#YT🇳🇴⚡
-vless://12345678-1234-1234-1234-123456789123@188.164.159.61:2096?encryption=none&security=tls&sni=vless.hubp.de&fp=chrome&type=ws&host=vless.hubp.de&path=/snippets&packetEncoding=xudp#Gemini🇦🇲⚡
+vless://793099c5-0712-4ea0-bbe1-455da88fc671@193.36.132.87:443?encryption=none&flow=xtls-rprx-vision&security=tls&sni=www.apple.com&fp=chrome&pbk=fPSR5GZpxhOV6Rh7VzMtS4AeRN7ipyNX4waG9JzJzxQ&sid=21181028b56c8702&packetEncoding=xudp#All🇳🇱🆕Fast
 vless://d8dd94fd-540e-461d-b5d4-acebef02c22a@178.250.191.11:34045?encryption=none&security=tls&sni=visit-this-invitation-link-to-join-tg-enkelte-notif.ekt.me&fp=random&pbk=cDaDzPr3PlS3NM8lreHZbdo-Mhqz8vMBzMSkHXhGIUA&sid=e8ab71d0&packetEncoding=xudp#All+БезРекламы🇩🇪
 vless://6ba2eac6-0ec9-44ca-a42b-a8e23aafb530@204.216.216.23:1114?encryption=none&flow=xtls-rprx-vision&security=tls&sni=yahoo.com&fp=chrome&pbk=WfkCF0eEuIoO0MyJsKOddU89QrTzCZ4y2dzCJbH99CQ&sid=79a1e14b&packetEncoding=xudp#Ломбардия🇮🇹
 vless://9936ae5c-91cd-4c8a-80e9-5118a209a7e4@188.253.21.106:443?encryption=none&flow=xtls-rprx-vision&security=tls&sni=yahoo.com&fp=firefox&pbk=4JvLKnuuAs4h0cQ1j_S4SAuXQQ579D7Wr1sGBjmH-Ws&sid=73d3fec4&packetEncoding=xudp#Вильнюс🇱🇻
