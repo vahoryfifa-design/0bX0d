@@ -1,0 +1,1 @@
+vless://e08f1ad7-0c60-446d-baec-08b3b69bb3d0@nl-90w-c.southnetworks.cloud:80?encryption=none&security=none&type=ws&path=%2FgetWorkerUpdates&host=nl-90w-c.southnetworks.cloud&packetEncoding=xudp#🇳🇱🔥T-mobile,T2,Beeline
