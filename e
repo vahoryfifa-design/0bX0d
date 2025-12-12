@@ -3,4 +3,4 @@ vless://4a6de183-2ad3-456c-b420-feeac81f6257@51.250.28.8:1488?encryption=none&se
 vless://5aad18e2-f53b-4927-a1ff-cda06c5d5b02@152.53.145.111:443?encryption=none&security=reality&pbk=nc1sfrAmREkpj15hupqKM-l0t1_qlxvhUxgp2KvnpmE&fp=chrome&sni=init.itunes.apple.com&sid=d0&flow=xtls-rprx-vision&packetEncoding=xudp#G-YT-Germany🇩🇪💎
 vless://bed9a706-488f-4910-ac81-b1ab825f99bf@195.154.190.113:443?encryption=none&flow=xtls-rprx-vision&security=tls&sni=hls-svod.itunes.apple.com&fp=chrome&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&sid=48720c&packetEncoding=xudp#all-France🇫🇷🚀
 vless://12345678-1234-1234-1234-123456789123@193.227.99.61:2096?encryption=none&security=tls&type=ws&host=vless.hubp.de&path=%2Fsnippets&fp=chrome&sni=vless.hubp.de&packetEncoding=xudp#Netherlands🇳🇱
-
+vless://9936ae5c-91cd-4c8a-80e9-5118a209a7e4@188.253.21.106:443?encryption=none&security=reality&pbk=4JvLKnuuAs4h0cQ1j_S4SAuXQQ579D7Wr1sGBjmH-Ws&fp=chrome&sni=yahoo.com&sid=73d3fec4&flow=xtls-rprx-vision&packetEncoding=xudp#Riga(Wi-Fi)🇱🇻
