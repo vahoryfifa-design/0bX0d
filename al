@@ -1,6 +1,7 @@
 //profile-update-interval: 1
 vless://54fdfb91-1d27-4c5a-8fb3-61e1b08b2a58@8.35.211.162:443?encryption=none&security=tls&sni=bp.suoni.nyc.mn&fp=random&type=ws&host=bp.suoni.nyc.mn&path=/proxyip%3DProxyIP.SG.CMLiussss.net&packetEncoding=xudp#all🇺🇸Умная
 vless://54fdfb91-1d27-4c5a-8fb3-61e1b08b2a58@8.35.211.162:443?encryption=none&security=tls&sni=bp.suoni.nyc.mn&fp=random&type=ws&host=bp.suoni.nyc.mn&path=/proxyip%3DProxyIP.SG.CMLiussss.net&packetEncoding=xud#allstable⚡🇺🇸
+vless://247a22e1-0795-4852-9bdd-a65ac1078034@188.253.21.106:443?encryption=none&flow=xtls-rprx-vision&security=tls&sni=yahoo.com&fp=chrome&pbk=4JvLKnuuAs4h0cQ1j_S4SAuXQQ579D7Wr1sGBjmH-Ws&sid=73d3fec4&packetEncoding=xudp#Rb-YT-G🇱🇻
 vless://d8dd94fd-540e-461d-b5d4-acebef02c22a@188.92.28.204:34045?encryption=none&security=tls&sni=visit-this-invitation-link-to-join-tg-enkelte-notif.ekt.me&fp=random&pbk=cDaDzPr3PlS3NM8lreHZbdo-Mhqz8vMBzMSkHXhGIUA&sid=e8ab71d0&packetEncoding=xudp#b1Lum🇫🇷
 vless://bed9a706-488f-4910-ac81-b1ab825f99bf@195.154.190.113:443?encryption=none&flow=xtls-rprx-vision&security=tls&sni=hls-svod.itunes.apple.com&fp=chrome&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&sid=48720c&packetEncoding=xudp#All🇫🇷
 vless://57a5f6b3-ea58-4d4e-ad9c-a9830f148184@93.152.207.254:45884?encryption=none&security=tls&sni=yahoo.com&fp=firefox&pbk=_GoR9cR6JOUmQ1PM-s2GsHiy6OuIo1Ek1a7lhNKkvj4&sid=9a&packetEncoding=xudp#rb-YT🇫🇮⚡
