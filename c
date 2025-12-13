@@ -1,4 +1,3 @@
-//profile-update-interval
 vless://099dbf2d-a8e0-406e-a85f-eba0ac9a68aa@195.135.252.28:443?encryption=none&flow=xtls-rprx-vision&security=tls&sni=yahoo.com&fp=chrome&pbk=hGGVm0PiHJwNL34pBG6NLtbFGYVdcWhDu5zHYDoct08&sid=4360e536&packetEncoding=xudp#Gemini🇱🇻riga💎
 vless://78fc9ba9-9c68-4b49-891f-ea9e38bd3b56@51.120.240.39:443?encryption=none&security=tls&sni=ak.suoni.nyc.mn&fp=random&type=ws&host=ak.suoni.nyc.mn&path=/proxyip%3Dsjc.o00o.ooo&packetEncoding=xudp#ALL🇳🇴💎
 vless://d8dd94fd-540e-461d-b5d4-acebef02c22a@178.250.191.11:34045?encryption=none&security=reality&pbk=cDaDzPr3PlS3NM8lreHZbdo-Mhqz8vMBzMSkHXhGIUA&fp=chrome&sni=visit-this-invitation-link-to-join-tg-enkelte-notif.ekt.me&sid=e8ab71d0&packetEncoding=xudp#G-YT🇩🇪
