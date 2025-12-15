@@ -1,4 +1,5 @@
 //profile-update-interval: 1
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@173.244.56.6:443#‼️Отключите устройство 3‼️
 vless://e08f1ad7-0c60-446d-baec-08b3b69bb3d0@nl-90w-c.southnetworks.cloud:80?encryption=none&security=none&type=ws&path=%2FgetWorkerUpdates&host=nl-90w-c.southnetworks.cloud&packetEncoding=xudp#🏳️🇳🇱🔥T-mobile,T2,Beeline
 vless://afcfcc93-3cfd-4655-92d2-8de4f61c6d8f@185.247.17.58:6701?encryption=none&security=reality&pbk=pDvLdBz7ze5NCeRWBeQWzVIxmx8oVLK19X000qJNEw0&fp=chrome&sni=max.ru&sid=229027448021ddbe#🏳️Проблемные регионы🇸🇪
 vless://53fff6cc-b4ec-43e8-ade5-e0c42972fc33@152.53.227.159:80?encryption=none&type=ws&host=cdn.ir&path=/news&packetEncoding=xudp#G-YT-Germany🇩🇪💎
