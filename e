@@ -1,6 +1,6 @@
-#profile-title: base64:8J+QtPCfkJAoUm93biBTdWJzY3JpcHRpb24p
+#profile-title: base64:8J+PiVnjgYDjgo3jga7jgoLjgYTjga7jgoDjgafjgqHjgaDjg4njg6zjg4bjg4gjgg==
 #profile-update-interval: 24
-#subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=1765843199
+#subscription-userinfo: upload=0; download=0; total=2174327199367168; expire=1771027199
 #support-url: https://example.com
 #profile-web-page-url: https://example.com
 vless://7181acc7-a826-41d8-bd6b-808368238851@llr.envy0xc0.com:443?encryption=none&security=reality&pbk=UL8tNKqemMPXVBcnwVcvv5XCABkDhZCjXzmP60KAwHE&fp=chrome&sni=vk.com&sid=acd5feef&type=grpc&packetEncoding=xudp#🇱🇻test096🏳️
