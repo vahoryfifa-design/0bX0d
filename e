@@ -1,5 +1,4 @@
 //profile-update-interval: 1
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@173.244.56.6:443#‼️Отключите устройство 3‼️
 vless://7181acc7-a826-41d8-bd6b-808368238851@llr.envy0xc0.com:443?encryption=none&security=reality&pbk=UL8tNKqemMPXVBcnwVcvv5XCABkDhZCjXzmP60KAwHE&fp=chrome&sni=vk.com&sid=acd5feef&type=grpc&packetEncoding=xudp#🇱🇻test096🏳️
 vless://ddf0cd95-12d0-4018-9bc8-5634995640cb@lrm.envy0xc0.com:8443?encryption=none&security=reality&pbk=IpwiX9gkWUooAsa9cDU15Qz5-YlLUulJcOHCnduUKi0&fp=chrome&sni=vk.com&sid=6f7988dc331712&type=xhttp&path=%2F&packetEncoding=xudp#🇩🇪test097🏳️
 vless://bed9a706-488f-4910-ac81-b1ab825f99bf@195.154.190.113:443?encryption=none&flow=xtls-rprx-vision&security=tls&sni=hls-svod.itunes.apple.com&fp=chrome&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&sid=48720c&packetEncoding=xudp#all-France🇫🇷🚀
