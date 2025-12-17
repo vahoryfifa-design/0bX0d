@@ -1,5 +1,5 @@
 #profile-title: base64:8J+SjlNDUklCRSBWUE7wn5KO
-#profile-update-interval: 24
+#profile-update-interval: 1
 #subscription-userinfo: upload=0; download=0; total=2174327193600; expire=1766931000
 vless://099dbf2d-a8e0-406e-a85f-eba0ac9a68aa@195.135.252.28:443?encryption=none&flow=xtls-rprx-vision&security=tls&sni=yahoo.com&fp=chrome&pbk=hGGVm0PiHJwNL34pBG6NLtbFGYVdcWhDu5zHYDoct08&sid=4360e536&packetEncoding=xudp#Gemini🇱🇻riga💎
 vless://6897c181-24b1-4880-8660-e6c5c7ee13c7@92.60.78.221:443?encryption=none&security=reality&allowInsecure=1&pbk=pkIWxbuPAasjatPaHnAaTnCxVj1RkDFsJEWpLUTOcWY&fp=chrome&sni=www.tradingview.com&sid=9917d2350096&flow=xtls-rprx-vision&packetEncoding=xudp#all🇫🇮
