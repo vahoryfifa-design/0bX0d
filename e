@@ -1,5 +1,5 @@
 #profile-title: base64:8J+SjnNjcmliZSBydW5ldPCfko4=
-#profile-update-interval: 24
+#profile-update-interval: 1
 #subscription-userinfo: upload=0; download=0; total=2174327193600; expire=1768521599
 #support-url: https://example.com
 #profile-web-page-url: https://example.com
