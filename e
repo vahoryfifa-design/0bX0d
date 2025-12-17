@@ -3,7 +3,7 @@
 #subscription-userinfo: upload=0; download=0; total=2174327193600; expire=1768521599
 #support-url: https://example.com
 #profile-web-page-url: https://example.com
-vless://4676996d-67fe-483e-b36c-16ad2abb6f77@w1.geodataload.com:1443?encryption=none&security=reality&pbk=xsrPNGeq3ap9XVIztgtSJ7eg6Jl2ZWvSCRqZiXV2fTw&fp=chrome&sni=ads.x5.ru&flow=xtls-rprx-vision&packetEncoding=xudp#🏳️MTS%2C%20Megaton🇱🇻
+vless://4676996d-67fe-483e-b36c-16ad2abb6f77@w1.geodataload.com:1443?encryption=none&security=reality&pbk=xsrPNGeq3ap9XVIztgtSJ7eg6Jl2ZWvSCRqZiXV2fTw&fp=chrome&sni=ads.x5.ru&flow=xtls-rprx-vision&packetEncoding=xudp#🏳️MTS%2C%20t-mobile🇱🇻
 vless://ddf0cd95-12d0-4018-9bc8-5634995640cb@lrm.envy0xc0.com:8443?encryption=none&security=reality&pbk=IpwiX9gkWUooAsa9cDU15Qz5-YlLUulJcOHCnduUKi0&fp=chrome&sni=vk.com&sid=6f7988dc331712&type=xhttp&path=%2F&packetEncoding=xudp#🇩🇪test097🏳️
 vless://bed9a706-488f-4910-ac81-b1ab825f99bf@195.154.190.113:443?encryption=none&flow=xtls-rprx-vision&security=tls&sni=hls-svod.itunes.apple.com&fp=chrome&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&sid=48720c&packetEncoding=xudp#all-France🇫🇷🚀
 vless://12345678-1234-1234-1234-123456789123@193.227.99.61:2096?encryption=none&security=tls&type=ws&host=vless.hubp.de&path=%2Fsnippets&fp=chrome&sni=vless.hubp.de&packetEncoding=xudp#Netherlands🇳🇱
