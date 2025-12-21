@@ -1,6 +1,6 @@
 //profile-update-interval: 1
 vless://3c577581-677b-4700-9ae3-9aeec1417f44@war2.vpntype.dev:8443?security=reality&type=tcp&flow=xtls-rprx-vision&encryption=none&sni=google.com&pbk=lq-nzNuPX5l-aIYbIviDL85pdar7Aofd_TVjI-fUvXk&fp=chrome#VPNTYPE 🇵🇱 Warsaw 2
-vless://3c577581-677b-4700-9ae3-9aeec1417f44@war2.vpntype.dev:8443?security=reality&type=tcp&flow=xtls-rprx-vision&encryption=none&sni=www.tbank.ru&pbk=lq-nzNuPX5l-aIYbIviDL85pdar7Aofd_TVjI-fUvXk&fp=chrome#VPNTYPE 🇵🇱 Warsaw 2test
+vless://3c577581-677b-4700-9ae3-9aeec1417f44@war2.vpntype.dev:8443?security=reality&type=tcp&flow=xtls-rprx-vision&encryption=none&sni=cards.tbank.ru&pbk=lq-nzNuPX5l-aIYbIviDL85pdar7Aofd_TVjI-fUvXk&fp=chrome#VPNTYPE 🇵🇱 Warsaw 2test
 vless://54fdfb91-1d27-4c5a-8fb3-61e1b08b2a58@8.35.211.162:443?encryption=none&security=tls&sni=bp.suoni.nyc.mn&fp=random&type=ws&host=bp.suoni.nyc.mn&path=/proxyip%3DProxyIP.SG.CMLiussss.net&packetEncoding=xudp#all🇺🇸Умная
 vless://54fdfb91-1d27-4c5a-8fb3-61e1b08b2a58@8.35.211.162:443?encryption=none&security=tls&sni=bp.suoni.nyc.mn&fp=random&type=ws&host=bp.suoni.nyc.mn&path=/proxyip%3DProxyIP.SG.CMLiussss.net&packetEncoding=xud#allstable⚡🇺🇸
 vless://247a22e1-0795-4852-9bdd-a65ac1078034@188.253.21.106:443?encryption=none&flow=xtls-rprx-vision&security=tls&sni=yahoo.com&fp=chrome&pbk=4JvLKnuuAs4h0cQ1j_S4SAuXQQ579D7Wr1sGBjmH-Ws&sid=73d3fec4&packetEncoding=xudp#Rb-YT-G🇱🇻
