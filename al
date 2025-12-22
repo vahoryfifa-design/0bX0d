@@ -1,6 +1,5 @@
 //profile-update-interval: 1
 vless://3c577581-677b-4700-9ae3-9aeec1417f44@war2.vpntype.dev:8443?security=reality&type=tcp&flow=xtls-rprx-vision&encryption=none&sni=google.com&pbk=lq-nzNuPX5l-aIYbIviDL85pdar7Aofd_TVjI-fUvXk&fp=chrome#VPNTYPE 🇵🇱 Warsaw 2
-vless://3c577581-677b-4700-9ae3-9aeec1417f44@war2.vpntype.dev:8443?security=reality&type=tcp&flow=xtls-rprx-vision&encryption=none&sni=cards.tbank.ru&pbk=lq-nzNuPX5l-aIYbIviDL85pdar7Aofd_TVjI-fUvXk&fp=chrome#VPNTYPE 🇵🇱 Warsaw 2test
 vless://54fdfb91-1d27-4c5a-8fb3-61e1b08b2a58@8.35.211.162:443?encryption=none&security=tls&sni=bp.suoni.nyc.mn&fp=random&type=ws&host=bp.suoni.nyc.mn&path=/proxyip%3DProxyIP.SG.CMLiussss.net&packetEncoding=xudp#all🇺🇸Умная
 vless://54fdfb91-1d27-4c5a-8fb3-61e1b08b2a58@8.35.211.162:443?encryption=none&security=tls&sni=bp.suoni.nyc.mn&fp=random&type=ws&host=bp.suoni.nyc.mn&path=/proxyip%3DProxyIP.SG.CMLiussss.net&packetEncoding=xud#allstable⚡🇺🇸
 vless://247a22e1-0795-4852-9bdd-a65ac1078034@188.253.21.106:443?encryption=none&flow=xtls-rprx-vision&security=tls&sni=yahoo.com&fp=chrome&pbk=4JvLKnuuAs4h0cQ1j_S4SAuXQQ579D7Wr1sGBjmH-Ws&sid=73d3fec4&packetEncoding=xudp#Rb-YT-G🇱🇻
@@ -14,6 +13,7 @@ vless://57a5f6b3-ea58-4d4e-ad9c-a9830f148184@93.152.207.254:45884?encryption=non
 vless://22eb7060-d314-49d6-9d24-5a3ee72488cd@185.121.134.113:443?encryption=none&flow=xtls-rprx-vision&security=tls&sni=torretobarbershop.de&fp=random&pbk=ebCoS9P5o6dm9v8Dxbe-lEuEzS-R9rPH0IaimuAIKDg&sid=25f8f93d&packetEncoding=xudp#180🇵🇱
 vless://195573b7-ea63-485e-b2a5-58dd7bbfc9f7@193.247.82.67:443?encryption=none&security=tls&sni=plb.tunnelguard.ru&alpn=h2,http/1.1&fp=firefox&type=xhttp&path=/&mode=auto&packetEncoding=xudp#012🇵🇱
 vless://787ae54e-40ad-4caf-899b-ad3a19ff1103@45.144.48.192:8443?encryption=none&flow=xtls-rprx-vision&security=tls&sni=discordapp.com&fp=chrome&pbk=UBwue-cEE6w4gTS4dngQng5JEykNTR6d9f65p6RyA2w&sid=50c860b05993532d&packetEncoding=xudp#058🇵🇱
+vless://6a830bcd-6104-472e-b174-d66eb463acf7@151.115.123.226:443?encryption=none&flow=xtls-rprx-vision&security=tls&sni=hls-svod.itunes.apple.com&fp=chrome&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&sid=86e999a2cdc2&packetEncoding=xudp#70🇵🇱
 vless://5adac58f-6ecb-4498-8037-ac99196064e8@185.82.73.118:443?encryption=none&flow=xtls-rprx-vision&security=tls&sni=hls-svod.itunes.apple.com&fp=chrome&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&sid=31&packetEncoding=xudp#Yt-R🇳🇱
 vless://6c1df76d-c5f5-40f1-b969-5abc805407fa@94.228.210.78:443?encryption=none&flow=xtls-rprx-vision&security=tls&sni=hls-svod.itunes.apple.com&fp=chrome&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&sid=48720c&packetEncoding=xudp#all🇳🇱c
 vless://00000000-0000-4000-8000-000000000000@43.165.191.25:22272?encryption=none&security=tls&sni=mikuyo.bpd67081tsq.ddns-ip.net&fp=chrome&type=ws&host=mikuyo.bpd67081tsq.ddns-ip.net&path=/@Marisa_kristi&packetEncoding=xudp#Japan🇯🇵
