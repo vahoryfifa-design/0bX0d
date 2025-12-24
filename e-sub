@@ -3,7 +3,7 @@
 #subscription-userinfo: upload=0; download=0; total=2174327193600; expire=1768521599
 #support-url: https://example.com
 #profile-web-page-url: https://example.com
-vless://4676996d-67fe-483e-b36c-16ad2abb6f77@w1.geodataload.com:1443?encryption=none&security=reality&pbk=xsrPNGeq3ap9XVIztgtSJ7eg6Jl2ZWvSCRqZiXV2fTw&fp=chrome&sni=ads.x5.ru&flow=xtls-rprx-vision&packetEncoding=xudp#🏳️Все%20операторы🇱🇻⚡
+vless://7e28c0d3-c907-4d6a-8c12-8094175db038@51.250.43.30:2053?security=reality&type=tcp&headerType=none&path=&host=&flow=xtls-rprx-vision&sni=api-maps.yandex.ru&fp=firefox&pbk=2zAba7569dQmvrj7-dHd1iJ_POA2SpwDcbig4WBqaE8&sid=1d#%F0%9F%87%A9%F0%9F%87%AA%20DE-FFM%20%7C%20%D0%9C%D0%B5%D0%B3%D0%B0%D1%84%D0%BE%D0%BD
 vless://99ce2f8d-0119-4e92-b16a-48683f5012ef@vk.edgehimft.su:8443?encryption=none&security=reality&flow=xtls-rprx-vision&type=tcp&fp=random&pbk=tSiK_xTsdY3_oI4qqCWZwodTbrXmWl8IPTZbpIKiiiY&sid=9d&sni=sun6-22.userapi.com&allowInsecure=1&packetEncoding=xudp#🏳️Все%20операторы🇵🇱
 vless://bed9a706-488f-4910-ac81-b1ab825f99bf@195.154.190.113:443?encryption=none&flow=xtls-rprx-vision&security=tls&sni=hls-svod.itunes.apple.com&fp=chrome&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&sid=48720c&packetEncoding=xudp#all-France🇫🇷
 vless://d8dd94fd-540e-461d-b5d4-acebef02c22a@77.246.109.191:34045?encryption=none&security=tls&sni=visit-this-invitation-link-to-join-tg-enkelte-notif.ekt.me&pbk=cDaDzPr3PlS3NM8lreHZbdo-Mhqz8vMBzMSkHXhGIUA&sid=e8ab71d0&packetEncoding=xudp#Netherland🇳🇱⚡
