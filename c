@@ -1,10 +1,4 @@
 #profile-title: base64:8J+SjlNDUklCRSBWUE7wn5KO
 #profile-update-interval: 1
 #subscription-userinfo: upload=0; download=0; total=2174327193600; expire=1766931000
-vless://099dbf2d-a8e0-406e-a85f-eba0ac9a68aa@195.135.252.28:443?encryption=none&flow=xtls-rprx-vision&security=tls&sni=yahoo.com&fp=chrome&pbk=hGGVm0PiHJwNL34pBG6NLtbFGYVdcWhDu5zHYDoct08&sid=4360e536&packetEncoding=xudp#Gemini🇱🇻riga💎
-vless://6897c181-24b1-4880-8660-e6c5c7ee13c7@92.60.78.221:443?encryption=none&security=reality&allowInsecure=1&pbk=pkIWxbuPAasjatPaHnAaTnCxVj1RkDFsJEWpLUTOcWY&fp=chrome&sni=www.tradingview.com&sid=9917d2350096&flow=xtls-rprx-vision&packetEncoding=xudp#all🇫🇮
-vless://d8dd94fd-540e-461d-b5d4-acebef02c22a@178.250.191.11:34045?encryption=none&security=reality&pbk=cDaDzPr3PlS3NM8lreHZbdo-Mhqz8vMBzMSkHXhGIUA&fp=chrome&sni=visit-this-invitation-link-to-join-tg-enkelte-notif.ekt.me&sid=e8ab71d0&packetEncoding=xudp#G-YT🇩🇪
-vless://bed9a706-488f-4910-ac81-b1ab825f99bf@195.154.190.113:443?encryption=none&flow=xtls-rprx-vision&security=tls&sni=hls-svod.itunes.apple.com&fp=chrome&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&sid=48720c&packetEncoding=xudp#all🇫🇷🚀
-vless://d8dd94fd-540e-461d-b5d4-acebef02c22a@188.92.28.204:34045?encryption=none&security=tls&sni=visit-this-invitation-link-to-join-tg-enkelte-notif.ekt.me&fp=chrome&pbk=cDaDzPr3PlS3NM8lreHZbdo-Mhqz8vMBzMSkHXhGIUA&sid=e8ab71d0&packetEncoding=xudp#FR🇫🇷
-vless://12345678-1234-1234-1234-123456789123@213.241.198.61:2096?encryption=none&security=tls&sni=vless.hubp.de&fp=chrome&type=ws&host=vless.hubp.de&path=/snippets&packetEncoding=vaht#YT-Без-Рекламы🇷🇺
-vless://12345678-1234-1234-1234-123456789123@154.194.12.61:2096?encryption=none&security=tls&sni=vless.hubp.de&fp=chrome&type=ws&host=vless.hubp.de&path=/snippets&packetEncoding=xudp#YTбез-рекламы🇸🇬⚡
+vless://6abacb95-56c2-48bd-a85d-ff6f1ee3923c@89.208.199.194:443?security=reality&encryption=none&pbk=qhK1DG1XiBLwKRcDvTB6jMFLH0sbXL7RKB98DJmXHjg&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=ads.x5.ru&sid=14eb16#WL-LTE1(Netherland)
